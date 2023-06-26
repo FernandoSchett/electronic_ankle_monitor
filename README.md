@@ -1,4 +1,4 @@
-<h1 align="center">🦶 Application Title 🦶</h1>
+<h1 align="center">🦶 Electronic Ankle Monitor 🦶</h1>
 
 <div align="center">
 	<a href="link_for_webite">
@@ -22,6 +22,13 @@ This project was developed during the Microprocessors 1 course at SENAI CIMETC i
 ## How does it work 💡:
 
 The electronic ankle bracelet will be connected to the Wi-Fi network of the monitoring location or the individual's home. When the person being monitored loses Wi-Fi connection, the ankle bracelet will emit a bright light and produce a loud sound. If the system detects a lack of response, it will automatically alert the authorities or the responsible parties. The project will prioritize usability, affordability, and minimal battery consumption. Furthermore, the ankle bracelet will be ergonomically designed, highly durable, and 3D printed to prevent easy removal. Another important aspect is the deactivation process. To deactivate the ankle bracelet, a series of buttons will need to be pressed in the correct order. All activity logs will be securely stored in a cloud-based system.
+
+<div align="center">
+	<a href="">
+	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+    </a>
+</div>
+<h4 align="center">Figure 1 - Mental map.</h4>
 
 ## Resourses 🧑‍🔬:
 
@@ -61,11 +68,11 @@ The electronic ankle bracelet will be connected to the Wi-Fi network of the moni
 	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
     </a>
 </div>
-<h4 align="center">Figure 2 - Prototype results.</h4>
+<h4 align="center">Figure 3 - Prototype results.</h4>
 
 ## How to run it 🏃:
 
-First, clone this repository. After that, connect the monitor at the computer, open the ```anckle_monitor.cpp``` file at [Arduino IDE](https://www.arduino.cc/en/software), then compile and load the program at ESP32 card.
+First, clone this repository. After that, connect the monitor at the computer, open the ```./src/anckle_monitor.cpp``` file at [Arduino IDE](https://www.arduino.cc/en/software), then compile and load the program at ESP32 card.
 
 ## Development Process ⚙️:
 
