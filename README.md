@@ -17,7 +17,7 @@
 
 ## About 🤔:
 
-This project was developed during the Microprocessors 1 course at SENAI CIMETC in 2023.1. Our main objective was to create an electronic ankle bracelet using the ESP32 board. While the initial idea was to incorporate GPS functionality, due to limited resources, we opted for a simulation-based approach using WiFi connectivity. The electronic ankle bracelet is still in its initial phase but shows great potential for future expansions, making it a viable solution for monitoring individuals, animals, or objects. In this project, we aimed to highlight the advantages, such as affordability, a simple user interface, and easy assembly process.
+This project was developed during the Microprocessors 1 course at SENAI CIMETC in 2023.1. Our main objective was to create an electronic ankle bracelet using the ESP32 board. While the initial idea was to incorporate GPS functionality, due to limited resources, we opted for a simulation-based approach using WiFi connectivity. The electronic ankle bracelet is still in its initial phase but shows great potential for future expansions, making it a viable solution for monitoring individuals, animals, or objects. In this project, we aimed to highlight the advantages, such as affordability, a simple user interface, and easy assembly process. We also aim to make an article obout our project, with the orientation from our teacher, [João Alberto Castelo Branco](https://www.linkedin.com/in/joão-alberto-65b57729/).
 
 ## How does it work 💡:
 
@@ -76,7 +76,7 @@ First, clone this repository. After that, connect the monitor at the computer, o
 
 ## Development Process ⚙️:
 
-Throughout the semester, in weekly classes the developers learned the basics of microprocessor programming using MSP430. We started with simple codes available in the ```test_samples``` folder and, in the end, presented a functional prototype as our final project.
+Throughout the semester, in weekly classes the developers learned the basics of microprocessor programming using MSP430. We started with simple codes available in the ```./test_samples``` folder and, in the end, presented a functional prototype as our final project.
 
 ### Tools Used 🛠️: 
 
