@@ -87,12 +87,12 @@ Throughout the semester, in weekly classes the developers learned the basics of 
 
 ### Hardware 🧰:
 
-- [MSP430](https://www.ti.com/microcontrollers-mcus-processors/msp430-microcontrollers/overview.html).
 - [ESP32](https://www.espressif.com/en/products/socs/esp32).
 - (alot) Jumpers.
 - (4) - PushButton.
 - (1) - ProtoBoard.
 - (1) - Buzzer.
+- [MSP430](https://www.ti.com/microcontrollers-mcus-processors/msp430-microcontrollers/overview.html)(for tests and learning).
 
 ## How to contribute 🫂:
 
